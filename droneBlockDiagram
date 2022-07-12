@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T18:47:00.701Z" agent="5.0 (Windows)" etag="6PvDl5eOZO0LfUVkV4FM" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-12T18:48:15.775Z" agent="5.0 (Windows)" etag="WmC7q1H-cmbvqWjEx2E-" version="20.1.1" type="github">
   <diagram id="XAQXp35P1LMQLgMpV9TQ" name="Page-1">
     <mxGraphModel dx="2062" dy="1112" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,20 +7,20 @@
         <mxCell id="NjhNMmIRJ5LCbPZcmkby-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#485D5E;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="30" y="30" width="790" height="990" as="geometry" />
         </mxCell>
-        <mxCell id="NjhNMmIRJ5LCbPZcmkby-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NjhNMmIRJ5LCbPZcmkby-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;strokeColor=#D6B656;" vertex="1" parent="1">
           <mxGeometry x="450" y="450" width="330" height="280" as="geometry" />
         </mxCell>
         <mxCell id="NjhNMmIRJ5LCbPZcmkby-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="50" y="120" width="310" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="NjhNMmIRJ5LCbPZcmkby-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="580" width="120" height="60" as="geometry" />
+        <mxCell id="NjhNMmIRJ5LCbPZcmkby-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="50" y="440" width="320" height="285" as="geometry" />
         </mxCell>
         <mxCell id="NjhNMmIRJ5LCbPZcmkby-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="450" y="120" width="330" height="280" as="geometry" />
         </mxCell>
         <mxCell id="NjhNMmIRJ5LCbPZcmkby-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NjhNMmIRJ5LCbPZcmkby-9" value="&lt;font color=&quot;#FFFFFF&quot;&gt;drone chassis aka air frame aka frame&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="30" width="130" height="110" as="geometry" />
@@ -30,6 +30,9 @@
         </mxCell>
         <mxCell id="NjhNMmIRJ5LCbPZcmkby-11" value="&lt;div&gt;&lt;font color=&quot;#666666&quot;&gt;Propulsion and Lift&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="470" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NjhNMmIRJ5LCbPZcmkby-12" value="&lt;div&gt;Control&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="460" y="470" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
