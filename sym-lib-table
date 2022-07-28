@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "WriteablePowerManagement")(type "KiCad")(uri "${KIPRJMOD}/WriteablePowerManagement.kicad_sym")(options "")(descr ""))
+  (lib (name "DroneSchematicLib")(type "KiCad")(uri "${KIPRJMOD}/DroneSchematicLib.kicad_sym")(options "")(descr ""))
 )
